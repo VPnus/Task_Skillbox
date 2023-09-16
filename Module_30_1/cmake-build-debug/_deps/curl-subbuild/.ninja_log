@@ -1,0 +1,21 @@
+# ninja log v5
+0	68	7102584203239379	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	8967966edf9fcc3c
+3353	3415	7102584236710920	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	8afbd50f8a3c5cb9
+0	68	7102584203239379	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	8967966edf9fcc3c
+3709	3776	7102584240306940	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	7e402ca8e83c23fd
+69	3353	7102584236087442	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	f61e6c00650dfa7d
+69	3353	7102584236087442	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	f61e6c00650dfa7d
+3709	3776	7102584240306940	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	7e402ca8e83c23fd
+3454	3513	7102584237693458	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	fd1226e13b36cd27
+3353	3415	7102584236710920	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	8afbd50f8a3c5cb9
+3454	3513	7102584237693458	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	fd1226e13b36cd27
+3513	3578	7102584238341768	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	cce504807e877413
+3513	3578	7102584238341768	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	cce504807e877413
+3579	3641	7102584238975259	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	55fddb24d644d6a6
+3776	3873	7102584241279678	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	18dbcaa46ff410d4
+3579	3641	7102584238975259	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	55fddb24d644d6a6
+3641	3709	7102584239628730	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	23b6cc1e4adb8c24
+3641	3709	7102584239628730	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	23b6cc1e4adb8c24
+3776	3873	7102584241279678	CMakeFiles/curl-populate-complete	18dbcaa46ff410d4
+3776	3873	7102584241279678	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	18dbcaa46ff410d4
+3776	3873	7102584241279678	O:/QZskillbox_study/Module_30_1/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	18dbcaa46ff410d4

@@ -1,0 +1,21 @@
+# ninja log v5
+1	65	7106864564041118	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	c827ae8a2bebb52d
+3616	3692	7106864600293019	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	775ef5582bd746a2
+1	65	7106864564041118	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	c827ae8a2bebb52d
+65	3615	7106864599537946	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	4ac792a9e3bdf037
+65	3615	7106864599537946	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	4ac792a9e3bdf037
+3696	3811	7106864601491803	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	23208d02888eb02b
+3616	3692	7106864600293019	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	775ef5582bd746a2
+3696	3811	7106864601491803	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	23208d02888eb02b
+3996	4061	7106864603995130	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	cd098890e6c5fb2f
+3811	3876	7106864602157844	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	a1809c2f8c26e336
+3811	3876	7106864602157844	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	a1809c2f8c26e336
+3932	3996	7106864603359468	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	9204c572da6bb86f
+3876	3932	7106864602724204	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	acc0928dac437541
+3876	3932	7106864602724204	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	acc0928dac437541
+3932	3996	7106864603359468	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	9204c572da6bb86f
+4061	4152	7106864604906575	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	fd181597f08b12e9
+3996	4061	7106864603995130	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	cd098890e6c5fb2f
+4061	4152	7106864604906575	CMakeFiles/curl-populate-complete	fd181597f08b12e9
+4061	4152	7106864604906575	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	fd181597f08b12e9
+4061	4152	7106864604906575	O:/QZskillbox_study/Module_30_2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	fd181597f08b12e9

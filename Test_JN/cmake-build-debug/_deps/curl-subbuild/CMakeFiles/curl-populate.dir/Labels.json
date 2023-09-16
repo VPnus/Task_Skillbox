@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate.rule"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete.rule"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build.rule"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure.rule"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download.rule"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install.rule"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir.rule"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch.rule"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test.rule"
+		},
+		{
+			"file" : "O:/QZskillbox_study/Test_JN/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"curl-populate"
+		],
+		"name" : "curl-populate"
+	}
+}

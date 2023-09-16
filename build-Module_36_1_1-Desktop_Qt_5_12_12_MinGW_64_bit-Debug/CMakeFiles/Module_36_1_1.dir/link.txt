@@ -1,0 +1,3 @@
+C:\Qt\Qt5.12.12\Tools\cmake-3.27.4-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\Module_36_1_1.dir/objects.a
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\Module_36_1_1.dir/objects.a @CMakeFiles\Module_36_1_1.dir\objects1.rsp
+C:\Qt\Qt5.12.12\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Module_36_1_1.dir/objects.a -Wl,--no-whole-archive -o Module_36_1_1.exe -Wl,--out-implib,libModule_36_1_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Module_36_1_1.dir\linkLibs.rsp

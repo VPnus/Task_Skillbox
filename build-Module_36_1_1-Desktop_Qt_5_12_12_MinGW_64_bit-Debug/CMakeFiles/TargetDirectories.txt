@@ -1,0 +1,4 @@
+O:/QZskillbox_study/build-Module_36_1_1-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/Module_36_1_1.dir
+O:/QZskillbox_study/build-Module_36_1_1-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+O:/QZskillbox_study/build-Module_36_1_1-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+O:/QZskillbox_study/build-Module_36_1_1-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/Module_36_1_1_autogen.dir

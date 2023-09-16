@@ -1,0 +1,4 @@
+O:/QZskillbox_study/Module_34_1/cmake-build-debug/CMakeFiles/Module_34_1.dir
+O:/QZskillbox_study/Module_34_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+O:/QZskillbox_study/Module_34_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+O:/QZskillbox_study/Module_34_1/cmake-build-debug/CMakeFiles/Module_34_1_autogen.dir
